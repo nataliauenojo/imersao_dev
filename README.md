@@ -44,20 +44,4 @@ Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para ma
 * CSS
 * JavaScript
 
-**Observações:**
 
-* **Personalize:** Adapte este README para refletir as características específicas do seu projeto.
-* **Seja claro e conciso:** Use uma linguagem simples e direta para explicar as funcionalidades do seu projeto.
-* **Adicione mais detalhes:** Se necessário, inclua mais seções para explicar aspectos como a arquitetura, testes, etc.
-* **Use imagens:** Se quiser tornar o seu README mais visual, adicione imagens ou GIFs demonstrando o funcionamento da aplicação.
-
-**Dicas extras:**
-
-* **Badges:** Utilize badges para indicar a licença, a versão do Node.js, o status dos testes, etc.
-* **Índice:** Para READMEs mais longos, considere adicionar um índice para facilitar a navegação.
-* **Links:** Inclua links para a documentação das tecnologias utilizadas.
-
-**Com este README.md como base, você terá um guia claro e conciso para o seu projeto, facilitando a compreensão e colaboração de outros desenvolvedores.**
-
-**Gostaria de adicionar alguma seção específica ao seu README.md?** Por exemplo, você pode incluir uma seção sobre como configurar o ambiente de desenvolvimento, ou como executar testes.
-```
